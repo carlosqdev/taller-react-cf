@@ -9,7 +9,7 @@ function Characters() {
 
   const minMaxCounter = {
     min: 1,
-    max: 900,
+    max: 826,
   };
 
   const getCharacter = (characterId) => {
