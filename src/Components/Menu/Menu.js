@@ -9,7 +9,6 @@ function Menu() {
       <ul className='menu'>
         <Link className='menu__item' to="/">Home</Link>
         <Link className='menu__item' to="/characters">Personajes</Link>
-        <Link className='menu__item' to="/episodes">Episodios</Link>
       </ul>
     </nav>
   );
