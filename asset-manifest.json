@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/taller-react-cf/static/css/main.6125bc68.css",
+    "main.js": "/taller-react-cf/static/js/main.3943f632.js",
+    "static/js/787.b5f2cb3a.chunk.js": "/taller-react-cf/static/js/787.b5f2cb3a.chunk.js",
+    "static/media/RickAndMorty.jpg": "/taller-react-cf/static/media/RickAndMorty.c5460a6681f5c0ad56e1.jpg",
+    "static/media/RickAndMortyLogo.png": "/taller-react-cf/static/media/RickAndMortyLogo.eec10c73c9f2d17eac4b.png",
+    "index.html": "/taller-react-cf/index.html",
+    "main.6125bc68.css.map": "/taller-react-cf/static/css/main.6125bc68.css.map",
+    "main.3943f632.js.map": "/taller-react-cf/static/js/main.3943f632.js.map",
+    "787.b5f2cb3a.chunk.js.map": "/taller-react-cf/static/js/787.b5f2cb3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6125bc68.css",
+    "static/js/main.3943f632.js"
+  ]
+}
