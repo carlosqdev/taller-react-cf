@@ -10,6 +10,12 @@
   width: 80%;
   display: flex;
   gap: 1rem;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.menu .logo {
+  width: 150px;
 }
 
 .menu__item {
