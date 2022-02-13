@@ -33,7 +33,7 @@ function Characters() {
   return (
     <section>
       <header>
-        <h1 className="title">Explorar personajes.</h1>
+        <h1 className="title text__color">Explorar personajes.</h1>
       </header>
       {character && (
         <CharacterProfile

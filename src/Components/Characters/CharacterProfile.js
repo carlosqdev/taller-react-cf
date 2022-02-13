@@ -6,7 +6,7 @@ import "./CharacterProfile.css";
 function CharacterProfile({photography, name, gender, origin, species, status }) {
   return (
     <section className='card'>
-      <img className='card__img' loading='lazy' src={photography} alt={name} />
+      <img className='card__img' src={photography} alt={name} />
       <div className='card__wrapper'>
         <h2 className='card__title'>Nombre: {name}</h2>
         <p className='card__paragraph'>Genero: {gender}</p>
