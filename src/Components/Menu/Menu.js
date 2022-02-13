@@ -9,10 +9,10 @@ function Menu() {
   return (
     <nav className='nav'>
       <ul className='menu'>
-        <Link className='menu__item' to="/">
+        <Link className='menu__item' to={`${process.env.PUBLIC_URL}/`}>
           <img className='logo' src={logo} alt="Rick y Morty" />
         </Link>
-        <Link className='menu__item' to="/characters">Personajes</Link>
+        <Link className='menu__item' to={`${process.env.PUBLIC_URL}characters`}>Personajes</Link>
       </ul>
     </nav>
   );

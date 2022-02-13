@@ -10,9 +10,9 @@ function RoutesIndex() {
     <BrowserRouter>
       <Menu />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="characters" element={<Characters />} />
-        <Route path="*" element={<NotFound />} />
+        <Route path={`${process.env.PUBLIC_URL}/`} element={<Home />} />
+        <Route path={`${process.env.PUBLIC_URL}characters`} element={<Characters />} />
+        <Route path={`${process.env.PUBLIC_URL}*`} element={<NotFound />} />
       </Routes>
     </BrowserRouter>
   );
