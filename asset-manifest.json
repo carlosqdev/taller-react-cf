@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/taller-react-cf/static/css/main.e940ef2c.css",
-    "main.js": "/taller-react-cf/static/js/main.99abf3c2.js",
+    "main.js": "/taller-react-cf/static/js/main.e967eaa5.js",
     "static/js/787.b5f2cb3a.chunk.js": "/taller-react-cf/static/js/787.b5f2cb3a.chunk.js",
     "static/media/RickAndMortyLogo.png": "/taller-react-cf/static/media/RickAndMortyLogo.69ca09e12aa48b77f564.png",
     "static/media/RickAndMorty.jpg": "/taller-react-cf/static/media/RickAndMorty.c5460a6681f5c0ad56e1.jpg",
     "index.html": "/taller-react-cf/index.html",
     "main.e940ef2c.css.map": "/taller-react-cf/static/css/main.e940ef2c.css.map",
-    "main.99abf3c2.js.map": "/taller-react-cf/static/js/main.99abf3c2.js.map",
+    "main.e967eaa5.js.map": "/taller-react-cf/static/js/main.e967eaa5.js.map",
     "787.b5f2cb3a.chunk.js.map": "/taller-react-cf/static/js/787.b5f2cb3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e940ef2c.css",
-    "static/js/main.99abf3c2.js"
+    "static/js/main.e967eaa5.js"
   ]
 }
