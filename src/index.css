@@ -1,7 +1,9 @@
 :root {
   --fontFamily: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  --black: '#000';
-  --white: '#fff';
+  --background: #42B4CA;
+  --yellow: #C9E35A;
+  --black: #000;
+  --white: #fff;
   --gray: #cecece;
 }
 
